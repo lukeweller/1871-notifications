@@ -8,8 +8,8 @@ account_sid = 'AC767cf413d9c1cf8994d97f4b498a84a5'
 auth_token = '0f2c51d6d48106cb0927fb50b43bb40d'
 
 client = Client(account_sid, auth_token)
-send_to_list = ['']
-twilio_number = ''
+send_to_list = ['+12244562277','+18476912991']
+twilio_number = '+13312562051'
 receive_upcoming_bool = False
 #
 
