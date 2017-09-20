@@ -4,8 +4,8 @@ import datetime, calendar
 from twilio.rest import Client
 
 # Twilio Setup
-account_sid = 'AC767cf413d9c1cf8994d97f4b498a84a5'
-auth_token = '0f2c51d6d48106cb0927fb50b43bb40d'
+account_sid = ''
+auth_token = ''
 
 client = Client(account_sid, auth_token)
 send_to_list = ['']
